@@ -1,0 +1,17 @@
+{
+    "name": "SSSProject.Ammo",
+    "rootNamespace": "SSSProject.Ammo",
+    "references": [
+        "GUID:be2204f78c1032f4a93a8e53ef49c070",
+        "GUID:d3aadd99d14cf0b43b79aa336e0e44a7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

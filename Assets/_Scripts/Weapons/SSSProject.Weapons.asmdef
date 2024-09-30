@@ -1,0 +1,20 @@
+{
+    "name": "SSSProject.Weapons",
+    "rootNamespace": "SSSProject.Weapons",
+    "references": [
+        "GUID:d3aadd99d14cf0b43b79aa336e0e44a7",
+        "GUID:be2204f78c1032f4a93a8e53ef49c070",
+        "GUID:46bf09ad96d4de9438361394d12395cc",
+        "GUID:0f77772f0072a124b9ceb2b22c81cf68",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
